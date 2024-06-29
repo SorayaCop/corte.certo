@@ -2,7 +2,7 @@
 
 <h2 align="center">Corte.Certo - Barbearia & Hair Cutting</h2>
 
-Corte.Certo é um site de portfólio totalmente responsivo, para todos os dispositivos, usando HTML, CSS e JavaScript.  
+Corte.Certo é um site de portfólio totalmente responsivo, simulando um website estático para Barbearias.  
 
 <a href="https://sorayacop.github.io/corte.certo/"><strong>➥ Live Demo</strong></a>
 
